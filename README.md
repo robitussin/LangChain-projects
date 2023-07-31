@@ -1,1 +1,1 @@
-# LangChain-projects
+# My collection of LangChain-projects
